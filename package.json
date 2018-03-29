@@ -1,0 +1,17 @@
+{
+  "name": "@redice44/rw-file-promise",
+  "version": "0.0.1",
+  "description": "fs readFile writeFile promises",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matt Thomson <mthomson.lee@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^9.6.1",
+    "typescript": "^2.8.1"
+  }
+}
